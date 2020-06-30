@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f3956bc.chunk.css",
+    "main.js": "/static/js/main.3f60ac2a.chunk.js",
+    "main.js.map": "/static/js/main.3f60ac2a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.49c4fc91.js",
+    "runtime-main.js.map": "/static/js/runtime-main.49c4fc91.js.map",
+    "static/css/2.ddfacf9b.chunk.css": "/static/css/2.ddfacf9b.chunk.css",
+    "static/js/2.9009a48c.chunk.js": "/static/js/2.9009a48c.chunk.js",
+    "static/js/2.9009a48c.chunk.js.map": "/static/js/2.9009a48c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.acee758929e06f0e68fdd490b311cee5.js": "/precache-manifest.acee758929e06f0e68fdd490b311cee5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.ddfacf9b.chunk.css.map": "/static/css/2.ddfacf9b.chunk.css.map",
+    "static/css/main.6f3956bc.chunk.css.map": "/static/css/main.6f3956bc.chunk.css.map",
+    "static/js/2.9009a48c.chunk.js.LICENSE.txt": "/static/js/2.9009a48c.chunk.js.LICENSE.txt",
+    "static/media/bebaslah_2x.png": "/static/media/bebaslah_2x.3d293227.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image_processing20191213-15731-9k3te9.jpg": "/static/media/image_processing20191213-15731-9k3te9.7721cc56.jpg",
+    "static/media/image_processing20191213-16612-czwln.jpg": "/static/media/image_processing20191213-16612-czwln.ef48258f.jpg",
+    "static/media/jadi.jpg": "/static/media/jadi.6dc00a80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49c4fc91.js",
+    "static/css/2.ddfacf9b.chunk.css",
+    "static/js/2.9009a48c.chunk.js",
+    "static/css/main.6f3956bc.chunk.css",
+    "static/js/main.3f60ac2a.chunk.js"
+  ]
+}
